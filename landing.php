@@ -88,7 +88,7 @@
             <h1 class="mb-2">G&S TEES. Where Style meets comfort.</h1>
             <div class="intro-text text-center text-md-left">
               <p class="mb-4" style="color: #333; font-size: 22px;">Discover a range of t-shirts that offer both exceptional style and unmatched comfort. Perfect for any day, our tees are a wardrobe essential. </p>
-                <a href="#" class="btn btn-sm btn-primary">Shop Now</a>
+                <a href="login.php" class="btn btn-sm btn-primary">Shop Now</a>
               </p>
             </div>
           </div>
